@@ -1,4 +1,4 @@
-# BAP-Practicum-Journal
+# BPA-Practicum-Journal
 
 Hello Practicans~  
 This following repo contains the documentation of task and solution from the practicum.  
@@ -12,4 +12,4 @@ Enjoy.
 2. Conditional (if,elif,else)
 3. Looping (for and while)
 4. Function & Procedure
-5. * will be updated next week *
+5. **----will be updated next week----**
