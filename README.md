@@ -1,4 +1,6 @@
-# BPA-Practicum-Journal
+# BPA-Practicum-Solution
+
+## Greetings
 
 Hello Practicans~  
 This following repo contains the documentation of task and solution from the practicum.  
@@ -6,7 +8,7 @@ It is continue to be updated until all practicum modules have been done.
 
 Enjoy.
 
-# Material
+## Material
 
 1. Introduction (Number, String, Data Type Structure, Input, Print)
 2. Conditional (if,elif,else)
