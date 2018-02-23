@@ -20,7 +20,7 @@ Input
 Output
      Operator tidak ditemukan
 ```
-# Number 2
+## Number 2
 Buatlah program untuk mencari nilai terbesar dan terkecil dari 3 buah bilangan bulat yang diinputkan user. Seperti contoh berikut ini.  
 ```
 Input
@@ -32,7 +32,7 @@ Output
 	Terbesar : 20
 	Terkecil : 5
 ```
-# Number 3
+## Number 3
 Buatlah program untuk menentukan indeks nilai mahasiswa berdasarkan nilai yang didapatkan.
 Ketentuan nilai:  
 ```
@@ -65,7 +65,7 @@ Input
 Output
      Maaf format anda salah
 ```
-# Number 5
+## Number 5
 PT. Kereta api Indonesia dalam rangka memperingati HUT PT. Kereta Api Indonesia memberikan diskon 20 % untuk kereta api dengan jarak tempuh lebih dari 200 km atau harga tiket lebih dari Rp300.000,00 dan diskon 50% untuk kereta api dengan jarak tempuh lebih dari 300 km atau harga tiket lebih dari Rp500.000,00. Buatlah program untuk membantu PT. Kereta api Indonesia menentukan harga tiket setelah mendapat diskon.  
 Contoh :
 ```
