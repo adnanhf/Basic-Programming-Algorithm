@@ -31,11 +31,11 @@ Output
 ```
 ## Number 4
 Buatlah program yang dapat menerima input/masukkan data pegawai meliputi : Nama, Jabatan, Gaji, Kemudian pajak yang harus dibayarkan. Pajak = 10% dari gaji pegawai.
-Format tampilan :
+Format tampilan di layar:
 ```
-Nama    : <mengisiNama>
-Jabatan : <mengisiJabatan>
-Gaji        : <mengisiGaji>
+Nama    : <Nama Anda>
+Jabatan : <Jabatan Anda>
+Gaji    : <Gaji Anda>
 <Selang 2 Baris>
 Pegawai dengan nama <Nama> dan jabatan <Jabatan> mendapat gaji sebesar Rp <Gaji> dan harus membayar pajak sebesar <pajak>
 ```
