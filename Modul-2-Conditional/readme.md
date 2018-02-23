@@ -70,14 +70,14 @@ PT. Kereta api Indonesia dalam rangka memperingati HUT PT. Kereta Api Indonesia 
 Contoh :
 ```
 Input :
-	Jarak tempuh 	: 350 km
+	Jarak tempuh 	: 350
 	Harga Tiket	: 400000 
 Output
 	Harga tiket: 200000
 ```
 ```
 Input :
-	Jarak tempuh 	: 100 km
+	Jarak tempuh 	: 100
 	Harga Tiket	: 350000 
 Output
 	Harga tiket: 280000
