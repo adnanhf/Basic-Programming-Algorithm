@@ -44,9 +44,9 @@ Nilai > 80	A
 Contoh :
 ```
 Input
-Masukkan nilai : 75
+     Masukkan nilai : 75
 Output
-	Indeks : B
+     Indeks : B
 ```
 ## Number 4
 Untuk mendaftar suatu berita harus mengirim sms dengan format `REG <NAMA>`, format dianggap benar jika 4 huruf awal yaitu REG(spasi)  
