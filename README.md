@@ -14,4 +14,5 @@ Enjoy :smiley::yum::laughing:
 2. Conditional (if,elif,else)
 3. Looping (for and while)
 4. Function & Procedure
-5. **----will be updated next week----**
+5. Sequence Data Type (List, Tuple, Dictionary)
+6. **----will be updated next week----**
