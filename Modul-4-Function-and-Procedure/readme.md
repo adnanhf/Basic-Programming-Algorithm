@@ -58,6 +58,27 @@ Buatlah program untuk menghitung nilai suhu dari suatu skala ke tiga skala lainn
 * Program utama tidak boleh memiliki variabel input lebih dari satu.
 * Program utama MAKSIMAL 2 BARIS.
 
+Contoh run program:
+```
+Contoh 1
+
+Input
+     Masukkan nilai suhu : 254 K
+Output
+     Nilai suhu dalam skala Celcius : -19 C
+     Nilai suhu dalam skala Reamur : -15.20 R
+     Nilai suhu dalam skala Fahrenheit : -2.20 F
+--------------------------------------------------------
+Contoh 2
+
+Input
+     Masukkan nilai suhu : 14 F
+Output
+     Nilai suhu dalam skala Celcius : -10 C
+     Nilai suhu dalam skala Reamur : -8.20 R
+     Nilai suhu dalam skala Kelvin : 263 K
+```
+
 # Rumus Konversi Suhu
 Berikut rumus konversi nilai suhu ke masing-masing skala:
 * Dari Celcius  
