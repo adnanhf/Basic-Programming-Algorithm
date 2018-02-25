@@ -26,7 +26,7 @@ Buatlah program utama untuk mencari banyaknya kombinasi, dengan ketentuan sebaga
 * Buatlah fungsi untuk menghitung kombinasi, di dalam fungsi kombinasi, panggil fungsi faktorial untuk menghitung nilai kombinasi, dengan parameter fungsi `n` (banyak elemen dalam himpunan) dan `r` (rasio).  
 
 Rumus kombinasi sebagai berikut:  
-![Combination](http://rogercortesi.com/eqn/tempimagedir/eqn6502.png)  
+![Combination](http://latex.codecogs.com/gif.latex?C_r^n=\frac{n!}{r!(n-r)!})  
 
 Perhatikan contoh berikut:
 ```
@@ -86,14 +86,14 @@ Berikut rumus konversi nilai suhu ke masing-masing skala:
 ![CFahrenheit](http://latex.codecogs.com/gif.latex?Fahrenheit=(9/5)*Celcius&space;&plus;&space;32)  
 ![CKelvin](http://latex.codecogs.com/gif.latex?Kelvin=Celcius&plus;273)  
 * Dari Reamur  
-![RCelcius](http://www.sciweavers.org/tex2img.php?eq=Celcius%20%3D%20%285%2F4%29%2AReamur&bc=White&fc=Black&im=jpg&fs=12&ff=mathpazo&edit=0)  
-![RFahrenheit](http://www.sciweavers.org/tex2img.php?eq=Fahrenheit%20%3D%20%289%2F4%29%2AReamur%20%2B%2032%0A&bc=White&fc=Black&im=jpg&fs=12&ff=mathpazo&edit=0)  
-![RKelvin](http://www.sciweavers.org/tex2img.php?eq=Kelvin%20%3D%20Celcius%20%2B%20273%20%3D%20%285%2F4%29%2AReamur%20%2B%20273&bc=White&fc=Black&im=jpg&fs=12&ff=mathpazo&edit=0)
+![RCelcius](http://latex.codecogs.com/gif.latex?Celcius&space;=&space;(5/4)*Reamur)  
+![RFahrenheit](http://latex.codecogs.com/gif.latex?Fahrenheit&space;=&space;(9/4)*Reamur&space;&plus;&space;32)  
+![RKelvin](http://latex.codecogs.com/gif.latex?Kelvin&space;=&space;Celcius&space;&plus;&space;273&space;=&space;(5/4)*Reamur&space;&plus;&space;273)
 * Dari Fahrenheit  
-![FCelcius](http://www.sciweavers.org/tex2img.php?eq=Celcius%20%3D%20%285%2F9%29%2A%28Fahrenheit-32%29&bc=White&fc=Black&im=jpg&fs=12&ff=mathpazo&edit=0)  
-![FReamur](http://www.sciweavers.org/tex2img.php?eq=Reamur%20%3D%20%284%2F9%29%2A%28Fahrenheit-32%29%0A&bc=White&fc=Black&im=jpg&fs=12&ff=mathpazo&edit=0)  
-![FKelvin](http://www.sciweavers.org/tex2img.php?eq=Kelvin%20%3D%20%285%2F9%29%2A%28Fahrenheit-32%29%20%2B%20273%0A&bc=White&fc=Black&im=jpg&fs=12&ff=mathpazo&edit=0)
+![FCelcius](http://latex.codecogs.com/gif.latex?Celcius&space;=&space;(5/9)*(Fahrenheit-32))  
+![FReamur](http://latex.codecogs.com/gif.latex?Reamur&space;=&space;(4/9)*(Fahrenheit-32))  
+![FKelvin](http://latex.codecogs.com/gif.latex?Kelvin&space;=&space;(5/9)*(Fahrenheit-32)&space;&plus;&space;273)
 * Dari Kelvin  
-![KCelcius](http://www.sciweavers.org/tex2img.php?eq=Celcius%20%3D%20Kelvin-273&bc=White&fc=Black&im=jpg&fs=12&ff=mathpazo&edit=0)  
-![KReamur](http://www.sciweavers.org/tex2img.php?eq=Reamur%20%3D%20%284%2F5%29%2A%28Kelvin-273%29%0A&bc=White&fc=Black&im=jpg&fs=12&ff=mathpazo&edit=0)  
-![KFahrenheit](http://www.sciweavers.org/tex2img.php?eq=Fahrenheit%20%3D%20%289%2F5%29%2A%28Kelvin-273%29%20%2B%2032%0A&bc=White&fc=Black&im=jpg&fs=12&ff=mathpazo&edit=0)
+![KCelcius](http://latex.codecogs.com/gif.latex?Celcius=Kelvin-273)  
+![KReamur](http://latex.codecogs.com/gif.latex?Reamur=(4/5)*(Kelvin-273))  
+![KFahrenheit](http://latex.codecogs.com/gif.latex?Fahrenheit=(9/5)*(Kelvin-273)&plus;32)
