@@ -84,7 +84,7 @@ Berikut rumus konversi nilai suhu ke masing-masing skala:
 * Dari Celcius  
 ![CReamur](http://latex.codecogs.com/gif.latex?Reamur&space;=&space;(4/5)*Celcius)  
 ![CFahrenheit](http://latex.codecogs.com/gif.latex?Fahrenheit=(9/5)*Celcius&space;&plus;&space;32)  
-![CKelvin](http://rogercortesi.com/eqn/tempimagedir/eqn6502.png)  
+![CKelvin](http://latex.codecogs.com/gif.latex?Kelvin=Celcius&plus;273)  
 * Dari Reamur  
 ![RCelcius](http://www.sciweavers.org/tex2img.php?eq=Celcius%20%3D%20%285%2F4%29%2AReamur&bc=White&fc=Black&im=jpg&fs=12&ff=mathpazo&edit=0)  
 ![RFahrenheit](http://www.sciweavers.org/tex2img.php?eq=Fahrenheit%20%3D%20%289%2F4%29%2AReamur%20%2B%2032%0A&bc=White&fc=Black&im=jpg&fs=12&ff=mathpazo&edit=0)  
