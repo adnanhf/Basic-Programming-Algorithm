@@ -26,7 +26,7 @@ Buatlah program utama untuk mencari banyaknya kombinasi, dengan ketentuan sebaga
 * Buatlah fungsi untuk menghitung kombinasi, di dalam fungsi kombinasi, panggil fungsi faktorial untuk menghitung nilai kombinasi, dengan parameter fungsi `n` (banyak elemen dalam himpunan) dan `r` (rasio).  
 
 Rumus kombinasi sebagai berikut:  
-![Combination](http://www.sciweavers.org/tex2img.php?eq=C_r%5En%3D%5Cfrac%7B%5C%20n%21%7D%7B%5C%28r%21%28n-r%29%21%29%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=mathpple&edit=0)  
+![Combination](http://rogercortesi.com/eqn/tempimagedir/eqn6502.png)  
 
 Perhatikan contoh berikut:
 ```
