@@ -31,4 +31,42 @@ Output
 
 ```
 ## Number 3
-Buatlah fungsi untuk menghitung berapa banyak kata dan kalimat dari suatu inputan paragraf tentang kesan anda selama praktikum modul 1 sampai modul saat ini tanpa menggunakan fungsi built in (seperti fungsi split, dll).
+Buatlah fungsi untuk menghitung berapa banyak kata dan kalimat dari suatu inputan paragraf tentang kesan anda selama praktikum modul 1 sampai modul saat ini tanpa menggunakan fungsi built in (seperti fungsi split, dll).  
+Contoh:
+```
+Input
+    Masukkan kalimat :  Kesan saya selama praktikum ini biasa saja. Semoga kedepannya praktikum saya dilancarkan. 
+
+Output
+    Banyaknya kata :  12
+    Banyaknya kalimat: 2
+
+```
+## Number 4
+Buatlah fungsi untuk mendeteksi kata palindrom (kata yang masih tetap sama jika susunan katanya dibalik), tanpa menggunakan fungsi built in (seperti fungsi split, dll).  
+Contoh:
+```
+Input
+    Kata: hello
+
+Output
+    Kata_terbalik : olleh
+    Palindrom: false
+    
+```
+## Number 5
+Buatlah fungsi untuk menghitung nilai invers dari sebuah matriks 2x2 (input matriks menggunakan looping, bukan input manual).  
+Contoh:
+```
+Input
+    Matriks = [[2,1],[3,2]]
+
+Output
+    Matriks_inv = [2,-1],[-3,2]
+
+```
+## BONUS
+Buatlah program dengan struktur fungsi dan program utama untuk menghitung pembagian matriks 2x2!
+
+# Rumus Matriks Invers
+![Inverse Matrix](http://rogercortesi.com/eqn/tempimagedir/eqn4390.png)
