@@ -62,7 +62,7 @@ Input
     Matriks = [[2,1],[3,2]]
 
 Output
-    Matriks_inv = [2,-1],[-3,2]
+    Matriks_inv = [2,-1],[-1,2]
 
 ```
 ## BONUS
