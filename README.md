@@ -15,4 +15,5 @@ Enjoy :smiley::yum::laughing:
 3. Looping (for and while)
 4. Function & Procedure
 5. Sequence Data Type (List, Tuple, Dictionary)
-6. **----will be updated next week----**
+6. Files and Modular Programming
+7. **----will be updated----**
