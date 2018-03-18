@@ -3,5 +3,6 @@ def readfile(filetoread):
   content=f.read()
   filteredcontent=content.split(':')
   morefilteredcontent=[filteredcontent[x].split(',') for x in range(len(filteredcontent))]
-
+  f.close()
+  
   return morefilteredcontent
