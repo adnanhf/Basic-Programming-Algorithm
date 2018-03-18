@@ -3,7 +3,7 @@ import reserving_module
 from view_data_module import *
 
 def main():
-  daftar_menu=readfile('temporar.txt')
+  daftar_menu=readfile('menu.txt')
 
   print('============================================================================\n'+
   '                             Warung Agak Mahal\n'+
