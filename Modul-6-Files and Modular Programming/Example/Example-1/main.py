@@ -21,6 +21,7 @@ def main():
     main()
   elif pilihan_user==2:
     tampilkanmenu(daftar_menu)
+    main()
   else:
     print('----Input Aksi Tidak Terdaftar, silakan Input Aksi kembali----\n\n')
     main()
