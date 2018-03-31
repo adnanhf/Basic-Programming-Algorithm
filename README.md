@@ -16,4 +16,5 @@ Enjoy :smiley::yum::laughing:
 4. Function & Procedure
 5. Sequence Data Type (List, Tuple, Dictionary)
 6. Files and Modular Programming
-7. **----will be updated----**
+7. Sequential & Binary Search
+8. **----will be updated----**
