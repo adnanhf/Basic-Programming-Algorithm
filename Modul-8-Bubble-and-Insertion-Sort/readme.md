@@ -38,26 +38,17 @@ Output
 Buatlah program yang mengambil data angka-angka dari file `angka.txt`, kemudian diurutkan secara ascending. Setelah itu masukkan kembali angka-angka yang sudah terurut ke dalam file baru bernama `angkaurut.txt`
 
 # Bonus
-Terdapat file ìkursjual.txtî berisikan konversi mata uang asing ke rupiah. Buatlah program untuk mengambil semua data pada file tersebut, kemudian tampilkan secara terurut dimulai dari nominal rupiah terkecil. Setelah itu masukkan kembali data-data yang sudah terurut ke dalam file baru bernama ìkursjualurut.txtî
+Terdapat file ‚Äúkursjual.txt‚Äù berisikan konversi mata uang asing ke rupiah. Buatlah program untuk mengambil semua data pada file tersebut, kemudian tampilkan secara terurut dimulai dari nominal rupiah terkecil. Setelah itu masukkan kembali data-data yang sudah terurut ke dalam file baru bernama ‚Äúkursjualurut.txt‚Äù
 
 | Sebelum terurut | Sesudah terurut |
-|    |    |
-| 1 AUD = 10716 IDR  
-1 CAD = 10788 IDR  
-1 CHF = 14753 IDR  
-1 CNY = 2244 IDR  
-1 EUR = 17219 IDR  
-1 GBP = 19655 IDR  
-1 HKD = 1810 IDR  
-1 JPY = 132 IDR  
-1 NZD = 10112 IDR  
-1 USD = 13828 IDR | 1 JPY = 132 IDR  
-1 HKD = 1810 IDR  
-1 CNY = 2244 IDR  
-1 NZD = 10112 IDR  
-1 AUD = 10716 IDR  
-1 CAD = 10788 IDR  
-1 USD = 13828 IDR  
-1 CHF = 14753 IDR  
-1 EUR = 17219 IDR  
-1 GBP = 19655 IDR |
+| ---- | ---- |
+| 1 AUD = 10716 IDR | 1 JPY = 132 IDR |
+| 1 CAD = 10788 IDR | 1 HKD = 1810 IDR |
+| 1 CHF = 14753 IDR | 1 CNY = 2244 IDR |
+| 1 CNY = 2244 IDR | 1 NZD = 10112 IDR |
+| 1 EUR = 17219 IDR | 1 AUD = 10716 IDR |
+| 1 GBP = 19655 IDR | 1 CAD = 10788 IDR |
+| 1 HKD = 1810 IDR | 1 USD = 13828 IDR |
+| 1 JPY = 132 IDR | 1 CHF = 14753 IDR |
+| 1 NZD = 10112 IDR | 1 EUR = 17219 IDR |
+| 1 USD = 13828 IDR | 1 GBP = 19655 IDR |
