@@ -18,21 +18,21 @@ Sorting data diatas menggunakan buble sort lalu tampilkan hasil data yang sudah 
 ## Number 2
 Buatlah program untuk mengurutkan angka-angka inputan user secara descending menggunakan insertion sort. Kemudian tampilkan urutan angka yang ingin dicari user. 
 
-`
-Input
-	n: 5
-	angka: 3
-	angka: 1
-	angka: 6
-	angka: 4
-	angka: 2
-
+```
+Input  
+	n: 5  
+	angka: 3  
+	angka: 1  
+	angka: 6  
+	angka: 4  
+	angka: 2  
+	
 	angka yg dicari: 1
-
-Output
-	Urutan angka: 6 4 3 2 1
+	
+Output  
+	Urutan angka: 6 4 3 2 1  
 	Angka berada pada urutan 5
-`
+```
 
 ## Number 3
 Buatlah program yang mengambil data angka-angka dari file `angka.txt`, kemudian diurutkan secara ascending. Setelah itu masukkan kembali angka-angka yang sudah terurut ke dalam file baru bernama `angkaurut.txt`
