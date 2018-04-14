@@ -18,4 +18,5 @@ Enjoy :smiley::yum::laughing:
 6. Files and Modular Programming
 7. Sequential & Binary Search
 8. Bubble & Insertion Sort
-9. **----will be updated----**
+9. Recursive
+10. **----will be updated----**
