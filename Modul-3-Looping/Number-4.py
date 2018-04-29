@@ -3,4 +3,4 @@ while(mywords != "DAP"):
   mywords = input("Masukkan Kata : ")
   i+=1
 print('\n')
-print("Selamat kata kunci yang anda tebak benar \n","Banyak kata yang salah diinput : ",i)
+print("Selamat kata kunci yang anda tebak benar \nBanyak kata yang salah diinput : ",i)
