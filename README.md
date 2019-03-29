@@ -19,4 +19,3 @@ Enjoy :smiley::yum::laughing:
 7. Sequential & Binary Search
 8. Bubble & Insertion Sort
 9. Recursive
-10. **----will be updated----**
